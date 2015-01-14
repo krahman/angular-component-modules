@@ -18,7 +18,7 @@ Dashboard
 
 UI Components
 * [Angular Kendo](https://github.com/nickholub/angular-dashboard-app)
-* - [Repo](https://github.com/kendo-labs/angular-kendo)
+  - [Repo](https://github.com/kendo-labs/angular-kendo)
 
 
 

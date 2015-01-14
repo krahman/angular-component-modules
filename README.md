@@ -14,11 +14,12 @@ Notifications & Growls
 * [Angular Growl](https://github.com/marcorinck/angular-growl)
 
 Dashboard
-* [Angular Dashboard App](https://github.com/nickholub/angular-dashboard-app)
+* [Angular Dashboard App](http://datatorrent.github.io/malhar-dashboard-webapp/#/)
+  - [Github Repo](https://github.com/nickholub/angular-dashboard-app)
 
 UI Components
 * [Angular Kendo](https://github.com/nickholub/angular-dashboard-app)
-  - [Repo](https://github.com/kendo-labs/angular-kendo)
+  - [Github Repo](https://github.com/kendo-labs/angular-kendo)
 
 
 
